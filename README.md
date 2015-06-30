@@ -59,3 +59,5 @@ Feel free to do whatever you want. Please include the original header in any mod
 
 ------
 June 2015 - Toronto
+
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
